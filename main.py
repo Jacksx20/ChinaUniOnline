@@ -1,13 +1,3 @@
-'''
-Function:
-    大学生在线 "四史"自动答题刷分
-Author:
-    XWhite
-GitHub项目地址:
-    https://github.com/Upsetin/ChinaUniOnline
-更新日期:
-    2021-02-09
-'''
 
 import requests,csv,re,json,random,time
 
